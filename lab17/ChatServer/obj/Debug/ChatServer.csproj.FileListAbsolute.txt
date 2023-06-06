@@ -1,0 +1,14 @@
+C:\Users\mrden\source\repos\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\mrden\source\repos\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\mrden\source\repos\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\mrden\source\repos\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\mrden\source\repos\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\mrden\source\repos\ChatServer\obj\Debug\ChatServer.pdb
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\bin\Debug\ChatServer.exe.config
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\bin\Debug\ChatServer.exe
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\bin\Debug\ChatServer.pdb
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\obj\Debug\ChatServer.exe
+D:\politech 2.0\c#\labs-oop-main\LAB17\ChatServer\obj\Debug\ChatServer.pdb
